@@ -6,7 +6,7 @@ All contracts are upgradables and allow for gassless transactions
 - MarketPlace: 
 
 ## Run contract test test
-To compile and test the contracts (nodejs and hardhat), you need the following libraries:
+To compile and test the contracts (nodejs and hardhat), you might need the following libraries:
 - npm install hardhat
 - npm install @nomiclabs/hardhat-ethers
 - npm install @openzeppelin/contracts
