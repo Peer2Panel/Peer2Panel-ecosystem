@@ -1,7 +1,7 @@
 # The Peer2Panel(P2P) Ecosystem
 This repository contains the Smart contracts of the P2P ecosystem (NFT, marketplace, collateralized loans and stable coin), and also the detaisl about the SolarT pricing model.
 
-##Smart contracts:
+## Smart contracts:
 - **SolarT**: Minting, Burning and handling all SolarT NFT informations
 - **MarketPlace**: Listing and buying SolarT tokens
 - **FungibleSolar**: Collateralized loans and Stable coin backed by SolarTs
