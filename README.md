@@ -7,7 +7,7 @@ This repository contains the Smart contracts of the P2P ecosystem (NFT, marketpl
 - **FungibleSolar**: Collateralized loans and Stable coin backed by SolarTs
 All contracts are upgradables and allow for gassless transactions
 
-### Run contract test test
+### Run contracts test
 To compile and test the contracts (nodejs and hardhat), you might need the following libraries:
 - npm install hardhat
 - npm install @nomiclabs/hardhat-ethers
