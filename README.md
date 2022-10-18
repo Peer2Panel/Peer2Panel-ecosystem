@@ -14,7 +14,8 @@ To compile and test the contracts (nodejs and hardhat), you need the following l
 - npm install @openzeppelin/hardhat-upgrades        //for deployement of upgradable contracts
 - npm install @openzeppelin/contracts-upgradeable   //for upgradable contracts
 - npm install @opengsn/contracts@2.2.6              //for gassless meta-transactions
-- npm install hardhat-contract-sizer                [If you wanna track the size of your contract (max size is 24KiB on EVM)]
+- npm install hardhat-contract-sizer                
+[If you wanna track the size of your contract (max size is 24KiB on EVM)]
 
 Then, you can run the test with
 - npx hardhat run scripts/run_test.js
