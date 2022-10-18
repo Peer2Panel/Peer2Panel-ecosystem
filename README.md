@@ -13,9 +13,7 @@ To compile and test the contracts (nodejs and hardhat), you need the following l
 //to fetch data from etherscan
 - npm install @openzeppelin/contracts
 - npm install @openzeppelin/hardhat-upgrades        
-//for deployement of upgradable contracts
 - npm install @openzeppelin/contracts-upgradeable   
-//for upgradable contracts
 - npm install @opengsn/contracts@2.2.6              
 //for gassless meta-transactions
 - npm install hardhat-contract-sizer                
