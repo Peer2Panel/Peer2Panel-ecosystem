@@ -2,8 +2,9 @@
 This repository contains the Smart contracts of the P2P ecosystem (NFT, marketplace, collateralized loans and stable coin).
 All contracts are upgradables and allow for gassless transactions
 
-- SolarT: Minting, Burning and handling all SolarT NFT informations
-- MarketPlace: 
+- **SolarT**: Minting, Burning and handling all SolarT NFT informations
+- **MarketPlace**: Listing and buying SolarT tokens
+- **FungibleSolar**: Collateralized loans and Stable coin backed by SolarTs
 
 ## Run contract test test
 To compile and test the contracts (nodejs and hardhat), you might need the following libraries:
