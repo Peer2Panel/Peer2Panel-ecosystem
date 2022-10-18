@@ -1,12 +1,13 @@
 # The Peer2Panel(P2P) Ecosystem
-This repository contains the Smart contracts of the P2P ecosystem (NFT, marketplace, collateralized loans and stable coin).
-All contracts are upgradables and allow for gassless transactions
+This repository contains the Smart contracts of the P2P ecosystem (NFT, marketplace, collateralized loans and stable coin), and also the detaisl about the SolarT pricing model.
 
+##Smart contracts:
 - **SolarT**: Minting, Burning and handling all SolarT NFT informations
 - **MarketPlace**: Listing and buying SolarT tokens
 - **FungibleSolar**: Collateralized loans and Stable coin backed by SolarTs
+All contracts are upgradables and allow for gassless transactions
 
-## Run contract test test
+### Run contract test test
 To compile and test the contracts (nodejs and hardhat), you might need the following libraries:
 - npm install hardhat
 - npm install @nomiclabs/hardhat-ethers
