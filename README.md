@@ -9,11 +9,15 @@ All contracts are upgradables and allow for gassless transactions
 To compile and test the contracts (nodejs and hardhat), you need the following libraries:
 - npm install hardhat
 - npm install @nomiclabs/hardhat-ethers
-- npm install @nomiclabs/hardhat-etherscan          //IF you wanna fetch data from etherscan
+- npm install @nomiclabs/hardhat-etherscan          
+[to fetch data from etherscan]
 - npm install @openzeppelin/contracts
-- npm install @openzeppelin/hardhat-upgrades        //for deployement of upgradable contracts
-- npm install @openzeppelin/contracts-upgradeable   //for upgradable contracts
-- npm install @opengsn/contracts@2.2.6              //for gassless meta-transactions
+- npm install @openzeppelin/hardhat-u[pgrades        
+[for deployement of upgradable contracts]
+- npm install @openzeppelin/contracts-upgradeable   
+[for upgradable contracts]
+- npm install @opengsn/contracts@2.2.6              
+[for gassless meta-transactions]
 - npm install hardhat-contract-sizer                
 [If you wanna track the size of your contract (max size is 24KiB on EVM)]
 
