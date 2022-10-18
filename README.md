@@ -1,5 +1,5 @@
-# P2P Smart Contracts
-Smart contracts of the P2P ecosystem (NFT, marketplace, collateralized loans and stable coin).
+# The Peer2Panel(P2P) Ecosystem
+This repository contains the Smart contracts of the P2P ecosystem (NFT, marketplace, collateralized loans and stable coin).
 All contracts are upgradables and allow for gassless transactions
 
 - SolarT: Minting, Burning and handling all SolarT NFT informations
