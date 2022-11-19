@@ -15,12 +15,12 @@ To compile and test the contracts (nodejs and hardhat), you might need the follo
 - npm install @openzeppelin/hardhat-upgrades        
 - npm install @openzeppelin/contracts-upgradeable   
 - npm install @opengsn/contracts@2.2.6              
-//for gassless meta-transactions
+//For gassless meta-transactions
 - npm install hardhat-contract-sizer                
 //If you wanna track the size of your contract (max size is 24KiB on EVM)
 - npm install @nomiclabs/hardhat-etherscan          
-//to fetch data from etherscan
-- npm install dotenv
+//To fetch data from etherscan
+- npm install dotenv          
 //To store and read your private keys in your environment variables
 
 Then, you can run the test with
