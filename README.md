@@ -20,6 +20,8 @@ To compile and test the contracts (nodejs and hardhat), you might need the follo
 //If you wanna track the size of your contract (max size is 24KiB on EVM)
 - npm install @nomiclabs/hardhat-etherscan          
 //to fetch data from etherscan
+- npm install dotenv
+//To store and read your private keys in your environment variables
 
 Then, you can run the test with
 - npx hardhat run scripts/run_test.js
